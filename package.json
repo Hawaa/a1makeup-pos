@@ -17,6 +17,12 @@
     
     
 },
+"repository": {
+  "type": "git",
+  "url": "git+https://github.com/Hawaa/a1makeup-pos.git"
+
+
+},
 
   "author": "",
   "license": "ISC",
